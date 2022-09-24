@@ -1,0 +1,62 @@
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>empresa_ACMe</title>
+    <link>http://example.org/</link>
+    <description>Recent content on empresa_ACMe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es/es</language>
+    <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
+    <webMaster>contact@example.org (Acme Corporation)</webMaster>
+    <lastBuildDate>Sat, 24 Sep 2022 15:24:28 +0200</lastBuildDate>
+    
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+<title>Ejea</title>
+<link>http://example.org/viaje/ejea/</link>
+<pubDate>Sat, 24 Sep 2022 15:24:28 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viaje/ejea/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Contacto</title>
+<link>http://example.org/contacto/</link>
+<pubDate>Sat, 24 Sep 2022 15:20:54 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/contacto/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>About</title>
+<link>http://example.org/about/</link>
+<pubDate>Sat, 24 Sep 2022 15:19:34 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/about/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Tiendas</title>
+<link>http://example.org/tiendas/</link>
+<pubDate>Sat, 24 Sep 2022 15:18:06 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/tiendas/</guid>
+<description></description>
+<category></category></item>
+    
+    <item>
+<title>Curriculum</title>
+<link>http://example.org/curriculum/</link>
+<pubDate>Sat, 24 Sep 2022 15:14:35 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/curriculum/</guid>
+<description></description>
+<category></category></item>
+    
+  </channel>
+</rss>
