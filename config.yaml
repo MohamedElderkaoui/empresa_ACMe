@@ -1,7 +1,7 @@
 baseURL: http://example.org/
 languageCode: es/es
 title: empresa_ACMe
-theme: Eclectic 
+theme: Basico
 author: 
   facebook: "https://facebook.com/example" 
   twitter: "https://twitter.com/example" 
@@ -13,11 +13,15 @@ author:
 
 menu:
   main: 
+    - identifier:  _index
+      name: inicio
+      url: /inicio
+      weight: 100  
     - identifier: about 
-      name: Acerca de 
+      name: about
       url: /about 
       weight: 100 
-    - identifier: contactp
+    - identifier: contact
       name: Contacto 
       url: /contacto 
       weight: 200 
