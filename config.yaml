@@ -37,7 +37,11 @@ menu:
       url: /viaje
       name: viaje 
       weight: 500 
-      
+    - identifier: blog
+      url: /blog
+      name: blog
+      weight: 600 
+    
 params: 
   color: "#4f46e5"
   copyright: "Copyright &copy; 2022 Acme Corporation. Todos los derechos reservados."
