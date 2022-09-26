@@ -15,16 +15,16 @@
       <pubDate>Sat, 24 Sep 2022 15:24:28 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>http://example.org/viaje/ejea/</guid>
-      <description></description>
+      <description>xxz</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>http://example.org/contacto/</link>
+      <link>http://example.org/contact/</link>
       <pubDate>Sat, 24 Sep 2022 15:20:54 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
-      <guid>http://example.org/contacto/</guid>
-      <description></description>
+      <guid>http://example.org/contact/</guid>
+      <description>csz</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@
       <pubDate>Sat, 24 Sep 2022 15:19:34 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>http://example.org/about/</guid>
-      <description></description>
+      <description>wsd</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@
       <pubDate>Sat, 24 Sep 2022 15:18:06 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>http://example.org/tiendas/</guid>
-      <description></description>
+      <description>cx</description>
     </item>
     
     <item>

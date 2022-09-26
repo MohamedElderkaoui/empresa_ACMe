@@ -15,7 +15,7 @@ menu:
   main: 
     - identifier:  _index
       name: inicio
-      url: /inicio
+      url: /
       weight: 100  
     - identifier: about 
       name: about
