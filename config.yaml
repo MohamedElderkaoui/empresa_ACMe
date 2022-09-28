@@ -22,8 +22,8 @@ menu:
       url: /about 
       weight: 100 
     - identifier: contact
-      name: Contacto 
-      url: /contacto 
+      name: Contact 
+      url: /contact 
       weight: 200 
     - identifier: curriculum
       name: curriculum
