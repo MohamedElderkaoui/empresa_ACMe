@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>inicio on empresa_ACMe</title>
+    <title>empresa_ACMe</title>
     <link>http://example.org/</link>
-    <description>Recent content in inicio on empresa_ACMe</description>
+    <description>Recent content on empresa_ACMe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es/es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Mon, 26 Sep 2022 09:12:56 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 21:26:39 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cambris</title>
+      <link>http://example.org/viaje/cambris/</link>
+      <pubDate>Mon, 26 Sep 2022 21:26:39 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viaje/cambris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ghris</title>
+      <link>http://example.org/viaje/ghris/</link>
+      <pubDate>Mon, 26 Sep 2022 21:25:58 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viaje/ghris/</guid>
+      <description>ghriss si viaje el pueblo de ghriss 7 puede visita la mezquita de verde estas son
+o
+aind dadara lls e es un distrito del estado de Mascara en el oeste de Argelia . Dista unos 18 km de la ciudad de Mascara y unos 58 km de la ciudad de Saida, y es un enlace entre las dos ciudades. Esta zona es de importancia histórica porque fue sede de una reunión para jurar lealtad al Emir Abd al-Qadir bajo un olmo en 1827 .</description>
+    </item>
+    
     <item>
       <title>P3</title>
       <link>http://example.org/blog/p3/</link>
@@ -37,12 +57,22 @@
     </item>
     
     <item>
+      <title>inicio</title>
+      <link>http://example.org/inicio/</link>
+      <pubDate>Mon, 26 Sep 2022 09:12:56 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/inicio/</guid>
+      <description>qajlsaz.</description>
+    </item>
+    
+    <item>
       <title>Ejea</title>
       <link>http://example.org/viaje/ejea/</link>
       <pubDate>Sat, 24 Sep 2022 15:24:28 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>http://example.org/viaje/ejea/</guid>
-      <description>xxz</description>
+      <description>ejea ea de los Caballeros es una ciudad y un municipio español de la provincia de Zaragoza, en la comunidad autónoma de Aragón. Está situado en la comarca de las Cinco Villas y pertenece al partido judicial homónimo. Con una superficie de 609,92 km² y una población de 17 036 habitantes (INE 2021), es el segundo municipio más extenso de Aragón y el cuarto más poblado de la provincia.
+Localidades Actualmente, el municipio de Ejea de los Caballeros comprende las siguientes localidades:3​ Bardenas, El Bayo, Ejea de los Caballeros, Farasdués, Pinsoro, El Sabinar, Rivas, Santa Anastasia y Valareña.</description>
     </item>
     
     <item>
@@ -51,7 +81,7 @@
       <pubDate>Sat, 24 Sep 2022 15:20:54 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>http://example.org/contact/</guid>
-      <description>csz</description>
+      <description>mi email mderkaoui10@gmail.com</description>
     </item>
     
     <item>

@@ -13,9 +13,9 @@ author:
 
 menu:
   main: 
-    - identifier:  _index
+    - identifier:  inicio
       name: inicio
-      url: /
+      url: /inicio
       weight: 100  
     - identifier: about 
       name: about
