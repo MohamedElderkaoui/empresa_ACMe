@@ -8,7 +8,18 @@
     <language>es/es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Sat, 24 Sep 2022 15:24:28 +0200</lastBuildDate><atom:link href="http://example.org/viaje/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 21:25:58 +0200</lastBuildDate><atom:link href="http://example.org/viaje/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ghris</title>
+      <link>http://example.org/viaje/ghris/</link>
+      <pubDate>Mon, 26 Sep 2022 21:25:58 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viaje/ghris/</guid>
+      <description>ghriss si viaje el pueblo de ghriss 7 puede visita la mezquita de verde estas son
+o
+aind dadara lls e es un distrito del estado de Mascara en el oeste de Argelia . Dista unos 18 km de la ciudad de Mascara y unos 58 km de la ciudad de Saida, y es un enlace entre las dos ciudades. Esta zona es de importancia histórica porque fue sede de una reunión para jurar lealtad al Emir Abd al-Qadir bajo un olmo en 1827 .</description>
+    </item>
+    
     <item>
       <title>Ejea</title>
       <link>http://example.org/viaje/ejea/</link>

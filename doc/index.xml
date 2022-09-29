@@ -8,7 +8,45 @@
     <language>es/es</language>
     <managingEditor>contact@example.org (Acme Corporation)</managingEditor>
     <webMaster>contact@example.org (Acme Corporation)</webMaster>
-    <lastBuildDate>Sat, 24 Sep 2022 15:24:28 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Sep 2022 21:25:58 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ghris</title>
+      <link>http://example.org/viaje/ghris/</link>
+      <pubDate>Mon, 26 Sep 2022 21:25:58 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/viaje/ghris/</guid>
+      <description>ghriss si viaje el pueblo de ghriss 7 puede visita la mezquita de verde estas son
+o
+aind dadara lls e es un distrito del estado de Mascara en el oeste de Argelia . Dista unos 18 km de la ciudad de Mascara y unos 58 km de la ciudad de Saida, y es un enlace entre las dos ciudades. Esta zona es de importancia histórica porque fue sede de una reunión para jurar lealtad al Emir Abd al-Qadir bajo un olmo en 1827 .</description>
+    </item>
+    
+    <item>
+      <title>P3</title>
+      <link>http://example.org/blog/p3/</link>
+      <pubDate>Mon, 26 Sep 2022 18:18:44 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/blog/p3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P2</title>
+      <link>http://example.org/blog/p2/</link>
+      <pubDate>Mon, 26 Sep 2022 18:17:36 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/blog/p2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P1</title>
+      <link>http://example.org/blog/p1/</link>
+      <pubDate>Mon, 26 Sep 2022 18:09:30 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/blog/p1/</guid>
+      <description>okso</description>
+    </item>
+    
     <item>
       <title>inicio</title>
       <link>http://example.org/inicio/</link>
@@ -47,12 +85,32 @@ Localidades Actualmente, el municipio de Ejea de los Caballeros comprende las si
     </item>
     
     <item>
+      <title>Tiendas</title>
+      <link>http://example.org/tiendas/</link>
+      <pubDate>Sat, 24 Sep 2022 15:18:06 +0200</pubDate>
+      <author>contact@example.org (Acme Corporation)</author>
+      <guid>http://example.org/tiendas/</guid>
+      <description>hay Pepino holandés pieza (390 gr aprox.) 0,99 €
+3,05 €/Kg.
+Añadir
+Pimientos tres colores bolsa 500 gr Pimientos tres colores bolsa 500 gr 1,59 €
+3,18 €/Kg.
+Añadir OSCAR MAYER salchichas wieners envase 200 gr OSCAR MAYER salchichas wieners envase 200 gr 1,35 €
+6,75 €/Kg.
+Añadir DIA VEGECAMPO ensalada 4 estaciones bolsa 250 gr DIA VEGECAMPO ensalada 4 estaciones bolsa 250 gr 0,59 €
+2,36 €/Kg.
+Añadir
+DIA VEGECAMPO ensalada variada bolsa 200 gr DIA VEGECAMPO ensalada variada bolsa 200 gr 0,99 €</description>
+    </item>
+    
+    <item>
       <title>Curriculum</title>
       <link>http://example.org/curriculum/</link>
       <pubDate>Sat, 24 Sep 2022 15:14:35 +0200</pubDate>
       <author>contact@example.org (Acme Corporation)</author>
       <guid>http://example.org/curriculum/</guid>
-      <description>4edcz</description>
+      <description>CURRICULUM VITAE
+Datos personales Nombre: Mohamed ELDerkaoui Apellidos: Merzouk Bendoukha DNI: 27396531N Fecha de nacimiento:27/01/1998 Lugar de nacimiento: mohamedia, Mascara, Argelia Dirección: C. Doctor Fleming nº12 3ºizq Localidad: Ejea de los Caballeros Provinicia: Zaragoza Teléfono: 635 86 72 72 Teléfono 2: 676768066 E-mail:mderkaoui10@gmail.com Formación y estudios He termina el grado surperio de desarrollo de aplicaciones de web de septiembre 2019ª marzo de 2022 Poseo Bachillerato de Ciencias (septiembre de 2015-mayo de 2019) Idioma: •	Español nativo •	A2 de ingles Conocimientos informáticos: •	Java medio •	Sql •	Html •	Sistema informático Linux y Windows •	Xml • Experiencia Laboral He trabajado en la fct abril de 2022 al junio 2022</description>
     </item>
     
   </channel>
