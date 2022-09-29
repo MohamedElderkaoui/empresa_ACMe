@@ -41,6 +41,10 @@ menu:
       url: /blog
       name: blog
       weight: 600 
+     - identifier: tv
+      url: /tv
+      name: tv
+      weight: 600 
     
 params: 
   color: "#4f46e5"
