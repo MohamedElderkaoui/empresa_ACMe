@@ -48,6 +48,14 @@ menu:
     - identifier: fiesta
       url: /fiesta
       name: fiesta
+      weight: 600  
+    - identifier: peliculas
+      url: /peliculas/Mas Vistas
+      name: Mas Vistas
+      weight: 600 
+    - identifier: contributors
+      url: /contributors/contributor
+      name: contributors
       weight: 600 
     
 params: 
