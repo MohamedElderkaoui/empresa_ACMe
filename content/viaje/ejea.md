@@ -3,6 +3,7 @@ title: "Ejea"
 date: 2022-09-24T15:24:28+02:00
 draft: false
 ---
+{{<ejea>}}
 # ejea
 
 ea de los Caballeros es una ciudad y un municipio español de la provincia de Zaragoza, en la comunidad autónoma de Aragón. Está situado en la comarca de las Cinco Villas y pertenece al partido judicial homónimo. Con una superficie de 609,92 km² y una población de 17 036 habitantes (INE 2021), es el segundo municipio más extenso de Aragón y el cuarto más poblado de la provincia.

@@ -41,9 +41,13 @@ menu:
       url: /blog
       name: blog
       weight: 600 
-     - identifier: tv
-      url: /tv
+    - identifier: tv
+      url: /tv/tv
       name: tv
+      weight: 600  
+    - identifier: fiesta
+      url: /fiesta
+      name: fiesta
       weight: 600 
     
 params: 

@@ -1,0 +1,14 @@
+{{ define "main"}}
+<div class="**">
+    {{ .Content }}
+    <h2>fiesta de los pilares</h2>
+    <h4>lugares</h4>
+    <ul>
+
+        {{range .Site.Data.pilares}}
+    <li>{{.title}}</li>    
+        {{ end }}
+    </ul>
+    {{ end }}
+</div>
+{{ end }}

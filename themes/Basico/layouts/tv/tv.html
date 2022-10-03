@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="container">
+<h1 class="titulo">{{ .Title }}</h1>
+{{ .Content }}
+<h2>datos tv</h2>
+<ul class="list_group">
+    {{range .Site.Data.tv}}
+    <li class="lis-group-item">{{.name}}</li>
+    {{range .channels}}
+<a href="{{.web}}">
+    <img src="{{.logo}}" alt="{{.name}}">
+</a>
+    {{end}}
+    {{ end }}
+</ul>    
+</div>
+ {{ end }}
