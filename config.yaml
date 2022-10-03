@@ -56,6 +56,10 @@ menu:
     - identifier: contributors
       url: /contributors/contributor
       name: contributors
+      weight: 600  
+    - identifier: Instituto
+      url: \centros\instituto
+      name: Instituto
       weight: 600 
     
 params: 
